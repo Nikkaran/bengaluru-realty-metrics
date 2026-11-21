@@ -1,0 +1,11 @@
+rank,feature,importance,importance_pct
+1,total_sqft,0.717205,71.72
+2,bath,0.146666,14.667
+3,bhk,0.068152,6.815
+4,location = Dodsworth Layout,0.012585,1.258
+5,balcony,0.010671,1.067
+6,location = Rajaji Nagar,0.010236,1.024
+7,location = Other,0.007166,0.717
+8,location = Malleshwaram,0.003148,0.315
+9,location = Whitefield,0.002977,0.298
+10,location = Koramangala,0.002478,0.248
